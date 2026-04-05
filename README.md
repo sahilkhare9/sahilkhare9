@@ -16,7 +16,7 @@
 - 🌱 On a mission to master Fullstack Engineering ❤️
 - 💻 Love building clean, scalable, production-ready apps
 - 📖 Always diving into docs like it’s my daily newspaper 📰
-- ☁️ 2024 Goal: Level up on AWS & Azure
+- ☁️ Goal: Level up on AWS & Azure
 - 🤯 Fun Fact: `==` and `===` — not the same. JS be wild.
 
 ---
